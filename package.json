@@ -1,0 +1,14 @@
+{
+	"name": "d8compat",
+	"version": "0.1.0",
+	"description": "D8 Compatibility library for Node",
+	"keywords": ["d8"],
+	"main": "build/Release/d8compat.node",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jdduncan/d8compat.git"
+	},
+	"engines": {
+		"node": ">=0.6.0"
+	}
+}
